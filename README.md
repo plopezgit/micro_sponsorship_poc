@@ -128,7 +128,7 @@ uvicorn app.main:app --reload
 ## Notes & Future Improvements
 
 - android client MVP
-- [advanced fraud mitigation for proximity cycles notes](docs/riesgos_fraude_ciclos.md)   
+- advanced fraud mitigation for proximity cycles 
   
 
 ---
