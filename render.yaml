@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: micro-1
+    name: micro
     env: python
     plan: free
     buildCommand: pip install -r requirements.txt
